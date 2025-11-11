@@ -48,5 +48,23 @@ Users can enter EV details such as year, battery capacity, range, and maintenanc
 - Integrated trained ML model with Streamlit frontend  
 - Added clean and responsive UI design  
 - Tested model predictions for accuracy and usability  
-- Verified compatibility with Python 3.13 environment  
+- Verified compatibility with Python 3.13 environment
 
+
+##  Week 3 – Generative AI
+I integrated a Generative AI–based EV Chatbot into my EV price prediction website. The chatbot uses the Google Gemini API (gemini-2.0-flash-lite model) to answer user queries related to electric vehicles such as battery, charging, maintenance, and resale value.
+I also improved the UI with a light professional theme, WhatsApp-style chat bubbles, a scrollable chat window, and a clean two-column layout (Prediction on the left, Chatbot on the right).
+
+Technologies Used:
+
+Python
+
+Streamlit (web app)
+
+Google Gemini API (Generative AI)
+
+HTML/CSS (UI styling)
+
+NumPy & Joblib (model handling)
+
+This completes the Week 3 requirement of integrating Generative AI into the project.
